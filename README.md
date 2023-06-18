@@ -9,10 +9,10 @@
 ### Development Environment
 
 
- ><img src="https://img.shields.io/badge/visualstudio-5C2D91?style=flat&logo=visualstudio&logoColor=white"/>
+ ><img src="https://img.shields.io/badge/VisualStudio-5C2D91?style=flat&logo=visualstudio&logoColor=white"/>
 
 
 ### Language
 
 
- ><img src="https://img.shields.io/badge/cplusplus-3776AB?style=flat&logo=C++&logoColor=white"/>
+ ><img src="https://img.shields.io/badge/C++-3776AB?style=flat&logo=C++&logoColor=white"/>
